@@ -2,9 +2,9 @@
 
 ## Hi, I'm Sebastian 👋
 
-My background includes 11 years at Michigan State University focused on a project to better understand the regulation of photosynthesis in highly dynamic environments by developing tools to access photosynthetic phenotypes outside the lab. Currently I'm supporting the Jan IngenHousz Institute in building new Open Science Plattform.
+My background includes 11 years at Michigan State University focused on a project to better understand the regulation of photosynthesis in highly dynamic environments by developing tools to access photosynthetic phenotypes outside the lab. Currently, I'm supporting the Jan IngenHousz Institute in building a new Open Science Platform.
 
-Tinkering around with electronics and software, I like to work and build projects, that are not just hacks but integrate into my everyday life.
+Tinkering around with electronics and software, I like to work and build projects that are not just hacks but integrate into my everyday life.
 
 ### Languages and Tools
 
