@@ -2,7 +2,7 @@
 
 ## Hi, I'm Sebastian 👋
 
-For the past 11 years, I worked at Michigan State University on a project to better understand the regulation of photosynthesis in highly dynamic environments by developing tools to access photosynthetic phenotypes outside the lab.
+My background includes 11 years at Michigan State University focused on a project to better understand the regulation of photosynthesis in highly dynamic environments by developing tools to access photosynthetic phenotypes outside the lab. Currently I'm supporting the Jan IngenHousz Institute in building new Open Science Plattform.
 
 Tinkering around with electronics and software, I like to work and build projects, that are not just hacks but integrate into my everyday life.
 
@@ -25,6 +25,7 @@ Tinkering around with electronics and software, I like to work and build project
 
 ### Find me here
 
-[ ![Sebastian Kuhlgert | LinkdeIN](https://img.shields.io/badge/LinkedIN-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/sebastian-kuhlgert-24a82387)
-[ ![Sebastian Kuhlgert | Xing](https://img.shields.io/badge/Xing-%23026466.svg?&style=for-the-badge&logo=xing&logoColor=white) ](https://www.xing.com/profile/Sebastian_Kuhlgert)
-[ ![Sebastian Kuhlgert | ResearchGate](https://img.shields.io/badge/ResearchGate-%2300ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white) ](https://www.researchgate.net/profile/Sebastian_Kuhlgert)
+[![Sebastian Kuhlgert | LinkdeIN](https://img.shields.io/badge/LinkedIN-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-kuhlgert-24a82387)
+[![Sebastian Kuhlgert | Xing](https://img.shields.io/badge/Xing-%23026466.svg?&style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Sebastian_Kuhlgert)
+[![Sebastian Kuhlgert | ResearchGate](https://img.shields.io/badge/ResearchGate-%2300ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sebastian_Kuhlgert)
+[![Sebastian Kuhlgert | ORCID](https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0108-6921)
